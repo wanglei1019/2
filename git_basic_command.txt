@@ -48,5 +48,8 @@ git switch 分支：可以用于调整现在的指向分支，是HEAD还是branc
 8、删除操作
 对于特殊情况的其他进程终端可以使用rm -f .git/index.lock。对于先删除一个文档，仅仅在远端和缓存区删除，需要用git rm -r –cached 文件名：-r为递归选项。删除本地和远程以及缓存区都需要用-r(递归操作)。
 
+9、commit多次，如何撤销
+对于这种情况，首先确定领先origin版本多少，然后输入git reset --mixed HEAD~2，即可解决。
+
 
 
