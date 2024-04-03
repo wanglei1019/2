@@ -11,6 +11,7 @@ git commit -m “”：提交，后面跟上备注
 git branch -m main：给分支命名
 git remote add origin github@....：在github特定的库创建分支
 git push -u origin main：上传文件到github中创建的分支
+（git push origin <分支名称> --force：强制上推-2024/4/3添加）
 
 2、换文件夹进行操作同一个库时：
 git clone github@.....：将想要操作的库的分支连接起来。如果clone到一个文件夹时，可以取出含有.git文件的全部，其他的都可以删。
