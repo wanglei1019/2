@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/16344/Desktop/OUC/main/C/data-sturcture/hello-world/cpp_precise/build",
+  "command": "C:/mingw64/bin/gcc.exe  @CMakeFiles/xixi.dir/includes_C.rsp -g -o CMakeFiles/xixi.dir/src/happy.c.obj -c C:/Users/16344/Desktop/OUC/main/C/data-sturcture/hello-world/cpp_precise/src/happy.c",
+  "file": "C:/Users/16344/Desktop/OUC/main/C/data-sturcture/hello-world/cpp_precise/src/happy.c",
+  "output": "CMakeFiles/xixi.dir/src/happy.c.obj"
+},
+{
+  "directory": "C:/Users/16344/Desktop/OUC/main/C/data-sturcture/hello-world/cpp_precise/build",
+  "command": "C:/mingw64/bin/gcc.exe  @CMakeFiles/xixi.dir/includes_C.rsp -g -o CMakeFiles/xixi.dir/src/main.c.obj -c C:/Users/16344/Desktop/OUC/main/C/data-sturcture/hello-world/cpp_precise/src/main.c",
+  "file": "C:/Users/16344/Desktop/OUC/main/C/data-sturcture/hello-world/cpp_precise/src/main.c",
+  "output": "CMakeFiles/xixi.dir/src/main.c.obj"
+}
+]
