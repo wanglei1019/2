@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/16344/Desktop/OUC/main/C/data-sturcture/hello-world/arrayrealizequeue/build",
+  "command": "C:/mingw64/bin/gcc.exe  @CMakeFiles/xixi.dir/includes_C.rsp -g -o CMakeFiles/xixi.dir/src/happy.c.obj -c C:/Users/16344/Desktop/OUC/main/C/data-sturcture/hello-world/arrayrealizequeue/src/happy.c",
+  "file": "C:/Users/16344/Desktop/OUC/main/C/data-sturcture/hello-world/arrayrealizequeue/src/happy.c",
+  "output": "CMakeFiles/xixi.dir/src/happy.c.obj"
+},
+{
+  "directory": "C:/Users/16344/Desktop/OUC/main/C/data-sturcture/hello-world/arrayrealizequeue/build",
+  "command": "C:/mingw64/bin/gcc.exe  @CMakeFiles/xixi.dir/includes_C.rsp -g -o CMakeFiles/xixi.dir/src/main.c.obj -c C:/Users/16344/Desktop/OUC/main/C/data-sturcture/hello-world/arrayrealizequeue/src/main.c",
+  "file": "C:/Users/16344/Desktop/OUC/main/C/data-sturcture/hello-world/arrayrealizequeue/src/main.c",
+  "output": "CMakeFiles/xixi.dir/src/main.c.obj"
+}
+]
