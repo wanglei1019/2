@@ -1,0 +1,39 @@
+{
+    "tasks": [
+        {
+            "type": "cmake",
+            "label": "CMake: build",
+            "command": "build",
+            "targets": [
+                "ALL_BUILD"
+            ],
+            "group": "build",
+            "problemMatcher": [],
+            "detail": "CMake template build task"
+        },
+
+        // {
+        //     "label": "build",
+        //     "type": "shell",
+        //     "command": "make",
+        //     "args": [],
+        //     "group": "build"
+        // },
+        
+        // {
+        //     "label": "download",
+        //     "type": "shell",
+        //     "command": "openocd",
+        //     "args": [
+        //         "-f",
+        //         "cmsis-dap.cfg",
+        //         "-f",
+        //         "stm32f4x.cfg",
+        //         "-c",
+        //         "program build/407_Prj.elf verify reset exit"
+        //     ],
+        //     "group": "build"
+        // }
+    ],
+    "version": "2.0.0"
+}
